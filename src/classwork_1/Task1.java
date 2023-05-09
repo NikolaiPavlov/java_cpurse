@@ -1,3 +1,5 @@
+package classwork_1;
+
 import java.time.LocalTime;
 import java.util.Scanner;
 public class Task1 {

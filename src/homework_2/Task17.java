@@ -1,4 +1,4 @@
-/*
+package homework_2;/*
 3. *Реализуйте алгоритм сортировки пузырьком числового массива, результат после каждой итерации запишите в лог-файл.
  */
 
@@ -23,7 +23,7 @@ public class Task17 {
 
     public static int[] babbleSort(int[] myArr) throws IOException {
         Logger loger = Logger.getLogger(Task17.class.getName());
-        FileHandler fh = new FileHandler("Task17.txt");
+        FileHandler fh = new FileHandler("homework_2.Task17.txt");
         SimpleFormatter sFormatter = new SimpleFormatter();
 
         fh.setFormatter(sFormatter);

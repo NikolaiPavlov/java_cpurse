@@ -1,3 +1,5 @@
+package classwork_2;
+
 public class Task12 {
     public static void main(String[] args) {
         System.out.println(ex1( "aaaabbbcdd"));

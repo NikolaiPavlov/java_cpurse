@@ -1,4 +1,4 @@
-/*
+package homework_2;/*
 2. *Получить исходную json строку из файла, используя FileReader или Scanner
  */
 
